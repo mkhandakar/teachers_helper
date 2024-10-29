@@ -1,9 +1,5 @@
 -- Create database
 CREATE DATABASE grading_system;
-
--- Use the new database
-USE grading_system;
-
 -- Create a table for students
 CREATE TABLE students (
     student_id INT PRIMARY KEY,
